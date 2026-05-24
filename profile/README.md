@@ -3,6 +3,7 @@
 ## Utilitários
 
 - [Miro](https://miro.com/app/board/uXjVHZouAEk=/)
+- [Figma](https://www.figma.com/board/wx7kmepPOFfWmXFR4geq0m/FIAP?node-id=0-1&t=L0gnz3Jyn21QlNyT-1)
 
 ## Tech-Challenges
 
