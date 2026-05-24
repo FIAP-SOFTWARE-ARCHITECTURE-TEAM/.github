@@ -57,3 +57,4 @@
 ## Meeting Notes
 
 - [17/05/2026](../meetings/2026-05-17.md) Primeira reunião com toda a equipe para falar sobre o projeto.
+- [24/05/2026](../meetings/2026-05-24.md) Mapeamento dos sub-domínios
